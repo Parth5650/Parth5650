@@ -8,13 +8,6 @@
 
 <br/>
 
-<a href="https://github.com/Parth5650">
-<img src="https://komarev.com/ghpvc/?username=Parth5650&style=for-the-badge&color=blueviolet" />
-</a>
-
-<a href="https://github.com/Parth5650?tab=followers">
-<img src="https://img.shields.io/github/followers/Parth5650?style=for-the-badge&logo=github&label=Followers" />
-</a>
 
 </div>
 
