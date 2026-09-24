@@ -35,14 +35,14 @@
 ```text
 ╭──────────────────────────────────────────────────────────╮
 │                                                          │
-│   🎯 Building production-ready Full Stack applications   │
+│   🎯 Building production-ready Full Stack applications  │
 │                                                          │
-│   ⚛️  React / Next.js        ████████████████████░  90%  │
-│   🟢 Node.js / Express       ███████████████████░░  85%  │
-│   🟦 TypeScript              █████████████████░░░░  80%  │
+│   ⚛️  React / Next.js        ████████████████████░  90% │
+│   🟢 Node.js / Express       ███████████████████░░  85% │
+│   🟦 Javascript              █████████████████░░░░  80% │
 │   🍃 MongoDB / PostgreSQL    █████████████████░░░  80%  │
 │   🤖 AI / ML                 ███████████████░░░░░  70%  │
-│   ☁️  Cloud / DevOps          ████████████░░░░░░░░  60%  │
+│   ☁️  Cloud / DevOps         ████████████░░░░░░░░  60%  │
 │   🏗️  System Design          ███████████░░░░░░░░░  55%  │
 │                                                          │
 ╰──────────────────────────────────────────────────────────╯
